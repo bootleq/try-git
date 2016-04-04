@@ -1,2 +1,3 @@
 foo bar
+dir/D in conflict branch
 octocat
